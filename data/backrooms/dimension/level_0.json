@@ -1,0 +1,19 @@
+{
+    "type": "backrooms:level_0",
+    "generator": {
+      "type": "minecraft:flat",
+      "settings": {
+        "biome": "backrooms:uncanny",
+        "lakes": false,
+        "features": false,
+        "layers": [
+          {
+            "block": "minecraft:stripped_oak_log",
+            "height": 1
+          }
+        ],
+        "structure_overrides": "backrooms:level_0"
+      }
+    }
+  }
+  
