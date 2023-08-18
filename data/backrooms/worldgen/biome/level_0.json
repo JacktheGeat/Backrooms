@@ -30,42 +30,18 @@
         {
           "type": "minecraft:silverfish",
           "weight": 12,
-          "minCount": 4,
-          "maxCount": 4
-        },
-        {
-          "type": "minecraft:cow",
-          "weight": 8,
           "minCount": 1,
           "maxCount": 1
         }
       ],
       "misc": [],
       "monster": [
-        {
-          "type": "minecraft:husk",
-          "weight": 95,
-          "minCount": 4,
-          "maxCount": 4
-        },
-        {
-          "type": "minecraft:slime",
-          "weight": 100,
-          "minCount": 4,
-          "maxCount": 4
-        }
       ],
       "water_ambient": [],
       "water_creature": []
     },
     "spawn_costs": {},
-    "carvers": {
-      "air": [
-        "minecraft:cave",
-        "minecraft:cave_extra_underground",
-        "minecraft:canyon"
-      ]
-    },
+    "carvers": {},
     "features": []
   }
   

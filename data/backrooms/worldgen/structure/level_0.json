@@ -1,15 +1,7 @@
 {
     "type": "minecraft:jigsaw",
     "biomes": [
-        "minecraft:frozen_peaks",
-        "minecraft:grove",
-        "minecraft:jagged_peaks",
-        "minecraft:snowy_slopes",
-        "minecraft:stony_peaks",
-        "minecraft:windswept_gravelly_hills",
-        "minecraft:windswept_hills",
-        "minecraft:plains",
-        "backrooms:uncanny"
+        "backrooms:level_0"
     ],
     "step": "surface_structures",
     "spawn_overrides": {},

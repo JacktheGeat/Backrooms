@@ -3,13 +3,13 @@
     "generator": {
       "type": "minecraft:flat",
       "settings": {
-        "biome": "backrooms:uncanny",
+        "biome": "backrooms:level_0",
         "lakes": false,
         "features": false,
         "layers": [
           {
-            "block": "minecraft:stripped_oak_log",
-            "height": 1
+            "block": "minecraft:bamboo_planks",
+            "height": 3
           }
         ],
         "structure_overrides": "backrooms:level_0"
