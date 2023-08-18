@@ -1,0 +1,18 @@
+{
+    "display": "minecraft:yellow_wool",
+    "settings": {
+      "biome": "backrooms:level_0",
+      "lakes": false,
+      "features": false,
+      "layers": [
+        {
+          "block": "minecraft:bamboo_planks",
+          "height": 3
+        }
+      ],
+      "structure_overrides": [
+        "backrooms:level_0"
+      ]
+    }
+  }
+  
