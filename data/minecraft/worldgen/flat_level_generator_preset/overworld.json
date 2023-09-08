@@ -11,7 +11,8 @@
         }
       ],
       "structure_overrides": [
-        "backrooms:level_0"
+        "backrooms:level_0",
+        "backrooms:level_0_poi"
       ]
     }
   }

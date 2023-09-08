@@ -1,14 +1,14 @@
 {
   "structures": [
     {
-      "structure": "backrooms:level_0",
+      "structure": "backrooms:level_0_poi",
       "weight": 1
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
     "salt": 22710246,
-    "spacing": 1,
-    "separation": 0
+    "spacing": 20,
+    "separation": 5
   }
 }
