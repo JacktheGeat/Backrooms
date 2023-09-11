@@ -1,0 +1,34 @@
+{
+  "values":[
+    "#air",
+    "#climbable",
+    "#bee_growables",
+    "#flowers",
+    "#flower_pots",
+    "#fire",
+    "#all_signs",
+    "#banners",
+    "#buttons",
+    "#bamboo_blocks",
+    "water",
+    "lava",
+    "fern",
+    "large_fern",
+    "#doors",
+    "#trapdoors",
+    "#pressure_plates",
+    "#backrooms:redstone_components",
+    "#torches",
+    "kelp",
+    "kelp_plant",
+    "seagrass",
+    "tall_seagrass",
+    "#fences",
+    "#fence_gates",
+    "#walls",
+    "iron_bars",
+    "#all_glass",
+    "#portals"
+  ]
+
+}
