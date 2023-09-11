@@ -1,0 +1,1 @@
+execute as @a[nbt={Dimension:"minecraft:overworld"}] at @s as @s[y=-66,dy=-10] in backrooms:level_0 run tp @s ~ -61 ~
