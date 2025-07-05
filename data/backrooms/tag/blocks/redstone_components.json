@@ -1,9 +1,0 @@
-{
-    "values": [
-        "redstone_wire",
-        "redstone_torch",
-        "redstone_wall_torch",
-        "repeater",
-        "comparator"
-    ]
-}

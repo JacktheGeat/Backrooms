@@ -33,7 +33,7 @@
         }
       },
       "backrooms:level_0": {
-          "type": "backrooms:level_0",
+          "type": "backrooms:backrooms",
           "generator": {
               "type": "minecraft:noise",
               "biome_source": {
