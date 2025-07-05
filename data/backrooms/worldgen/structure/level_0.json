@@ -6,7 +6,7 @@
     "step": "surface_structures",
     "spawn_overrides": {},
     "terrain_adaptation": "beard_thin",
-    "start_pool": "backrooms:level_0",
+    "start_pool": "backrooms:level_0/main",
     "size": 6,
     "start_height": {
       "absolute": 0
