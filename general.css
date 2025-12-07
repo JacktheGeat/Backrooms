@@ -2,3 +2,12 @@ body {
     background-image: url('/src/backrooms.png');
     background-size: cover;
 }
+
+.textBox {
+    width: 40%;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between
+}
