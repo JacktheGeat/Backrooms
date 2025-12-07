@@ -1,2 +1,0 @@
-execute as @a[nbt={Dimension:"minecraft:overworld"}] at @s as @s[y=-66,dy=-10] in backrooms:level_0 run tp @s ~ -61 ~
-execute as @a[nbt={Dimension:"minecraft:overworld"}] at @s unless block ~ ~ ~ #backrooms:not_suffocating unless block ~ ~1 ~ #backrooms:not_suffocating in backrooms:level_0 run tp @s ~ -61 ~
