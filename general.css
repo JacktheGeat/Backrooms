@@ -1,6 +1,5 @@
 body {
-    background-image: url('/src/backrooms.png');
-    background-repeat: no-repeat;
-    background-size: cover; /* Ensures the image covers the entire background area */
-    background-position: center center; /* Centers the image */
+    background-image: url('/src/backrooms.png') no-repeat;
+    background-size: cover;
+    background-position: center; 
 }
