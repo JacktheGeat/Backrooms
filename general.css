@@ -1,10 +1,17 @@
 body {
     background-image: url('src/backrooms.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
 .textBox {
+    position: absolute;
+    background-color: antiquewhite;
+    color: black;
     width: 40%;
+    min-width: 300px;
+    bottom:0;
 }
 
 .container {
