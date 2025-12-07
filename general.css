@@ -1,5 +1,4 @@
 body {
-    background-image: url('/src/backrooms.png') no-repeat;
+    background-image: url('/src/backrooms.png');
     background-size: cover;
-    background-position: center; 
 }
